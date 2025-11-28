@@ -1,9 +1,6 @@
-baseurl = "https://example.com"
-defaultContentLanguage = "en"
-languageCode = "en"
-title = "Hugo Theme Dream"
-theme = "dream"
-
+baseURL = 'https://mydreamblog.vercel.app/' # 這裡之後Vercel會給你，先不改也沒關係
+languageCode = 'zh-tw'
+title = '桃子毛的瀑布流' # 改成你想要的網站名稱
 # [services]
 # [services.disqus]
 # shortname = ""
@@ -19,10 +16,10 @@ darkTheme = "forest"
 # backgroundImage = "img/global-background.jpg"
 # backgroundImageDark = ""
 
-author = "Dream"
+author = "桃子毛"
 # description = ""
 # avatar = "img/avatar.png"
-headerTitle = "Hugo Theme Dream"
+headerTitle = "taozimao blog"
 # motto = ""
 
 # footerBottomText = ""
